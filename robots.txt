@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /tattoo
+
+Sitemap: https://tat2face.replit.app/sitemap.xml
